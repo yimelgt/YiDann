@@ -1,9 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
 body,
 html {
   height: 100%;
   background: #1f3a3d ;
   font-family: "Roboto", sans-serif;
   overflow: hidden;
+}
+
+.item-script{
+  font-weight: 20px;
 }
 
 .slideshow {
@@ -130,3 +136,4 @@ html {
 .the-most img {
   max-width: 100%;
 }
+
